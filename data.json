@@ -1,0 +1,281 @@
+[
+    {
+        "name": "Rolling Stones",
+        "members": [
+            "Mick Jagger",
+            "Keith Richards",
+            "Ronnie Wood",
+            "Charlie Watts"
+        ],
+        "formation_year": 1962
+    },
+    {
+        "name": "Led Zeppelin",
+        "members": [
+            "Robert Plant",
+            "Jimmy Page",
+            "John Paul Jones",
+            "John Bonham"
+        ],
+        "formation_year": 1968
+    },
+    {
+        "name": "Queen",
+        "members": [
+            "Freddie Mercury",
+            "Brian May",
+            "Roger Taylor",
+            "John Deacon"
+        ],
+        "formation_year": 1970
+    },
+    {
+        "name": "Pink Floyd",
+        "members": [
+            "Roger Waters",
+            "David Gilmour",
+            "Richard Wright",
+            "Nick Mason"
+        ],
+        "formation_year": 1965
+    },
+    {
+        "name": "The Who",
+        "members": [
+            "Roger Daltrey",
+            "Pete Townshend",
+            "John Entwistle",
+            "Keith Moon"
+        ],
+        "formation_year": 1964
+    },
+    {
+        "name": "U2",
+        "members": [
+            "Bono",
+            "The Edge",
+            "Adam Clayton",
+            "Larry Mullen Jr."
+        ],
+        "formation_year": 1976
+    },
+    {
+        "name": "AC/DC",
+        "members": [
+            "Angus Young",
+            "Brian Johnson",
+            "Cliff Williams",
+            "Phil Rudd"
+        ],
+        "formation_year": 1973
+    },
+    {
+        "name": "Nirvana",
+        "members": [
+            "Kurt Cobain",
+            "Krist Novoselic",
+            "Dave Grohl"
+        ],
+        "formation_year": 1987
+    },
+    {
+        "name": "The Doors",
+        "members": [
+            "Jim Morrison",
+            "Ray Manzarek",
+            "Robbie Krieger",
+            "John Densmore"
+        ],
+        "formation_year": 1965
+    },
+    {
+        "name": "Red Hot Chili Peppers",
+        "members": [
+            "Anthony Kiedis",
+            "Flea",
+            "Chad Smith",
+            "John Frusciante"
+        ],
+        "formation_year": 1983
+    },
+    {
+        "name": "The Rolling Stones",
+        "members": [
+            "Mick Jagger",
+            "Keith Richards",
+            "Charlie Watts",
+            "Ronnie Wood"
+        ],
+        "formation_year": 1962
+    },
+    {
+        "name": "Guns N' Roses",
+        "members": [
+            "Axl Rose",
+            "Slash",
+            "Duff McKagan",
+            "Izzy Stradlin"
+        ],
+        "formation_year": 1985
+    },
+    {
+        "name": "Metallica",
+        "members": [
+            "James Hetfield",
+            "Lars Ulrich",
+            "Kirk Hammett",
+            "Robert Trujillo"
+        ],
+        "formation_year": 1981
+    },
+    {
+        "name": "The Cure",
+        "members": [
+            "Robert Smith",
+            "Simon Gallup",
+            "Roger O'Donnell",
+            "Jason Cooper"
+        ],
+        "formation_year": 1976
+    },
+    {
+        "name": "Radiohead",
+        "members": [
+            "Thom Yorke",
+            "Jonny Greenwood",
+            "Colin Greenwood",
+            "Ed O'Brien"
+        ],
+        "formation_year": 1985
+    },
+    {
+        "name": "Pearl Jam",
+        "members": [
+            "Eddie Vedder",
+            "Stone Gossard",
+            "Jeff Ament",
+            "Mike McCready"
+        ],
+        "formation_year": 1990
+    },
+    {
+        "name": "Foo Fighters",
+        "members": [
+            "Dave Grohl",
+            "Nate Mendel",
+            "Pat Smear",
+            "Taylor Hawkins"
+        ],
+        "formation_year": 1994
+    },
+    {
+        "name": "R.E.M.",
+        "members": [
+            "Michael Stipe",
+            "Peter Buck",
+            "Mike Mills",
+            "Bill Berry"
+        ],
+        "formation_year": 1980
+    },
+    {
+        "name": "The Smiths",
+        "members": [
+            "Morrissey",
+            "Johnny Marr",
+            "Andy Rourke",
+            "Mike Joyce"
+        ],
+        "formation_year": 1982
+    },
+    {
+        "name": "Bon Jovi",
+        "members": [
+            "Jon Bon Jovi",
+            "Richie Sambora",
+            "David Bryan",
+            "Tico Torres"
+        ],
+        "formation_year": 1983
+    },
+    {
+        "name": "Ramones",
+        "members": [
+            "Joey Ramone",
+            "Johnny Ramone",
+            "Dee Dee Ramone",
+            "Tommy Ramone"
+        ],
+        "formation_year": 1974
+    },
+    {
+        "name": "Deep Purple",
+        "members": [
+            "Ian Gillan",
+            "Roger Glover",
+            "Ian Paice",
+            "Steve Morse"
+        ],
+        "formation_year": 1968
+    },
+    {
+        "name": "The Clash",
+        "members": [
+            "Joe Strummer",
+            "Mick Jones",
+            "Paul Simonon",
+            "Topper Headon"
+        ],
+        "formation_year": 1976
+    },
+    {
+        "name": "Def Leppard",
+        "members": [
+            "Joe Elliott",
+            "Phil Collen",
+            "Rick Savage",
+            "Rick Allen"
+        ],
+        "formation_year": 1977
+    },
+    {
+        "name": "Journey",
+        "members": [
+            "Steve Perry",
+            "Neal Schon",
+            "Ross Valory",
+            "Steve Smith"
+        ],
+        "formation_year": 1973
+    },
+    {
+        "name": "The Eagles",
+        "members": [
+            "Don Henley",
+            "Glenn Frey",
+            "Joe Walsh",
+            "Timothy B. Schmit"
+        ],
+        "formation_year": 1971
+    },
+    {
+        "name": "Imersao Dev 7",
+        "members": [
+            "Paulo Silveira",
+            "Rafa Ballerini",
+            "Gui Lima",
+            "Voc\u00ea"
+        ],
+        "formation_year": 2023
+    },
+    {
+        "name": "Nova banda",
+        "members": [
+            "Python",
+            "JavaScript",
+            "JacaScript",
+            "Numero 7"
+        ],
+        "formation_year": 1995
+    }
+]
